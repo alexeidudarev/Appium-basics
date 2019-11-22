@@ -7,4 +7,8 @@ Mobile apps testing with Appium and Eclipse IDE
 // https://mvnrepository.com/artifact/io.appium/java-client
 	compile group: 'io.appium', name: 'java-client', version: '7.2.0'
 	
-3.Refresh Gradle Project  
+3.Refresh Gradle Project
+
+4.Run Appium Server 
+
+5.Run Android AVD 
